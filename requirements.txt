@@ -1,0 +1,8 @@
+label-studio==1.6.0
+pytesseract==0.3.10
+shapely
+scikit-learn
+datasets
+seqeval
+accelerate
+lxml

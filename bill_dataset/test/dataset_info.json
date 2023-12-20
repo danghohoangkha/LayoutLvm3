@@ -1,0 +1,59 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    },
+    "words": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "bboxes": {
+      "feature": {
+        "feature": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "title",
+          "invoice_period",
+          "product_name",
+          "charge_type",
+          "site_address",
+          "account_number",
+          "company_info",
+          "other",
+          "invoice_date",
+          "page",
+          "total_amount",
+          "total_units",
+          "total_consumption_charges",
+          "total_additional_charges",
+          "total_ccl",
+          "total_vat",
+          "invoice_number",
+          "payment_due",
+          "vast_registion_number"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

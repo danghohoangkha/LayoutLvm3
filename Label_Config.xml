@@ -1,0 +1,7 @@
+<View>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="label" toName="image">
+    
+    
+  <Label value="title" background="#FFA39E"/><Label value="invoice_period" background="#D4380D"/><Label value="product_name" background="#FFC069"/><Label value="charge_type" background="#AD8B00"/><Label value="site_address" background="#D3F261"/><Label value="account_number" background="#389E0D"/><Label value="company_info" background="#5CDBD3"/><Label value="other" background="#096DD9"/><Label value="invoice_date" background="#ADC6FF"/><Label value="page" background="#9254DE"/><Label value="total_amount" background="#F759AB"/><Label value="total_units" background="#FFA39E"/><Label value="total_consumption_charges" background="#D4380D"/><Label value="total_additional_charges" background="#FFC069"/><Label value="total_ccl" background="#AD8B00"/><Label value="total_vat" background="#D3F261"/><Label value="invoice_number" background="#FFA39E"/><Label value="payment_due" background="#FFA39E"/><Label value="vast_registion_number" background="#FFA39E"/></RectangleLabels>
+</View>
